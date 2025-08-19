@@ -1,57 +1,94 @@
-<!-- Banner -->
+<!-- Profile Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sachin-jala/Sachin-jala/main/C:\Users\jalas\Downloads\ChatGPT Image Aug 5, 2025, 07_13_29 PM.png" alt="AI Sachin Banner" width="100%">
+  <!-- Replace banner.png with your actual image file in this repo -->
+  <img src="https://raw.githubusercontent.com/Sachin-jala/Sachin-jala/main/banner.png" alt="AI Sachin Banner" width="100%">
 </p>
 
-# 👋 Hey, I'm Sachin
+<h1 align="center">👋 Hey, I'm Sachin</h1>
 
-🚀 **AI Developer | Machine Learning Enthusiast | Full-Stack Innovator**  
+<p align="center">
+  <b>AI/ML Developer • Voice Assistant Builder • Full-Stack Innovator</b><br>
+  I build AI-powered apps, conversational agents with voice, and production-grade web experiences.
+</p>
 
-I’m passionate about building **AI-powered applications**, interactive **voice assistants**, and smart **web solutions**.  
-My mission is to make technology more human-friendly and accessible.
+<div align="center">
+  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-181717?style=for-the-badge)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-Sachin--jala-000?style=for-the-badge&logo=github)](https://github.com/Sachin-jala)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-linkedin/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:your-email@example.com)
+
+</div>
 
 ---
 
 ## 🧠 About Me
-- 🔭 Currently working on: **AI Chatbot with voice & web integration**
-- 🌱 Learning: **Advanced Machine Learning, LLM fine-tuning**
-- 🎯 Goal: Build **production-ready AI products**
-- ⚡ Fun fact: I can talk about AI for hours (and still be excited!)
+- 🔭 Building: **AI Chatbot** with **voice** + **web integration** (RAG, tools, streaming)
+- 🌱 Learning: **Advanced ML**, **LLM fine-tuning**, **system design for AI products**
+- 🎯 Goal: Ship **reliable, production-ready** AI products end-to-end
+- ⚡ Fun fact: I can talk about AI for hours and still be hyped 😄
 
 ---
 
 ## 🛠 Tech Stack
 
-**Languages & Frameworks:**  
-Python • JavaScript • Node.js • HTML • CSS • Flask • FastAPI  
+**Core:**  
+`Python` · `JavaScript` · `Node.js` · `HTML` · `CSS` · `Flask` · `FastAPI`
 
 **AI & ML:**  
-OpenAI GPT API • scikit-learn • TensorFlow • SpeechRecognition • NLP  
+`OpenAI API` · `scikit-learn` · `TensorFlow` · `NLP` · `SpeechRecognition` · `RAG` · `Whisper/STT`  
 
-**Tools:**  
-Git • GitHub • VS Code • Postman • Docker  
+**Data & Tools:**  
+`Git` · `GitHub` · `VS Code` · `Postman` · `Docker`
+
+> *Bonus:* Comfortable with deploying small services, securing API keys, and wiring CI basics.
 
 ---
 
 ## 📌 Featured Projects
-- 🤖 **[AI Chatbot](#)** — A web-based chatbot with voice features
-- 🎙 **[Voice Assistant](#)** — Python-powered personal assistant
-- 📊 **[Data Analyzer](#)** — AI-driven data insights tool
+
+- 🤖 **AI Chatbot** — Web chatbot with voice input/output, tool use, and context memory  
+  `FastAPI` · `Web Speech` · `OpenAI` · `RAG` — [Demo](#) • [Code](#)
+
+- 🎙 **Voice Assistant** — Python desktop assistant (commands, search, reminders)  
+  `SpeechRecognition` · `TTS` · `Python` — [Demo](#) • [Code](#)
+
+- 📊 **Data Analyzer** — Upload CSVs and get instant AI insights & visualizations  
+  `Pandas` · `LLM prompts` · `Charts` — [Demo](#) • [Code](#)
+
+> Replace the `(#)` links above with your repo/demo URLs.
 
 ---
 
-## 📫 Connect with Me
+## 📫 Connect
 <p>
-  <a href="https://github.com/your-username"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/Sachin-jala"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
-**<h3 align="left">GitHub Stats</h3>**
+
+---
+
+## 📈 GitHub Stats
 
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sushilmagare10&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=sushilmagare10&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
+  <img width="48%" 
+       src="https://github-readme-stats.vercel.app/api?username=Sachin-jala&theme=react&show_icons=true&count_private=true" 
+       alt="GitHub stats" />
+  <img width="48%" 
+       src="https://streak-stats.demolab.com?user=Sachin-jala&theme=react&date_format=M%20j%5B%2C%20Y%5D" 
+       alt="GitHub streak" />
+</p>
 
+<p align="left">
+  <img 
+    width="48%" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachin-jala&layout=compact&theme=react" 
+    alt="Top languages" />
+</p>
+
+<!-- GitHub Contribution Snake -->
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
@@ -59,4 +96,13 @@ Git • GitHub • VS Code • Postman • Docker
 
 ---
 
-⭐️ *"Code with logic, build with passion, and deploy with confidence."*
+### 🧪 Highlighted AIML Capabilities
+- Conversational AI with **intent handling**, **tools**, and **memory**
+- **RAG pipelines** (chunking, embeddings, retrieval strategies)
+- **Speech**: STT (Whisper / SpeechRecognition) + TTS for voice flows
+- Prompt engineering, evaluation, and latency/quality trade-offs
+- Packaging APIs with **FastAPI/Flask**, frontends with **JS**
+
+---
+
+⭐️ *“Code with logic, build with passion, and deploy with confidence.”*
