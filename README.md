@@ -30,9 +30,6 @@
 
 ---
 
-
-## 🛠 Tech Stack  
-
 ## 🛠 Tech Stack
 
 **Core:**  
