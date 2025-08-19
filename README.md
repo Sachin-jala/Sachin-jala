@@ -30,6 +30,9 @@
 
 ---
 
+
+## 🛠 Tech Stack  
+
 ## 🛠 Tech Stack
 
 **Core:**  
@@ -41,8 +44,7 @@
 **Data & Tools:**  
 `Git` · `GitHub` · `VS Code` · `Postman` · `Docker`
 
-> *Bonus:* Comfortable with deploying small services, securing API keys, and wiring CI basics.
-
+> *Bonus:* Comfortable with deploying small services, securing API keys, and wiring CI basics.                   take my tech section make it more actractive 
 ---
 
 ## 📌 Featured Projects
@@ -86,6 +88,8 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachin-jala&layout=compact&theme=react" 
     alt="Top languages" />
 </p>
+
+
 
 <!-- GitHub Contribution Snake -->
 <picture>
