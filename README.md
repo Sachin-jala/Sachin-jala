@@ -1,7 +1,7 @@
 <!-- Profile Banner -->
 <p align="center">
   <!-- Replace banner.png with your actual image file in this repo -->
-  <img src="https://raw.githubusercontent.com/Sachin-jala/Sachin-jala/main/banner.png" alt="AI Sachin Banner" width="100%">
+  <img src="banner.jpg" alt="AI Sachin Banner" width="100%">
 </p>
 
 <h1 align="center">👋 Hey, I'm Sachin</h1>
@@ -15,8 +15,8 @@
   
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-181717?style=for-the-badge)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-Sachin--jala-000?style=for-the-badge&logo=github)](https://github.com/Sachin-jala)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-linkedin/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sachin-jala)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:jalasachin93@gmail.com)
 
 </div>
 
@@ -62,8 +62,8 @@
 ## 📫 Connect
 <p>
   <a href="https://github.com/Sachin-jala"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/sachin-jala"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:jalasachin93@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
